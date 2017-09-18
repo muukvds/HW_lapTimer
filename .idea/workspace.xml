@@ -8,16 +8,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/AiiUserInterface$3.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/AiiUserInterface.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TimingEngine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lap_timer_solution.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AiiLapTimer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AiiUserInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TimingEngine.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -226,12 +218,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505750674950</updated>
-      <workItem from="1505750680613" duration="276000" />
+      <workItem from="1505750680613" duration="329000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1505750978170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505750978171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="276000" />
+    <option name="totallyTimeSpent" value="329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -269,6 +269,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
