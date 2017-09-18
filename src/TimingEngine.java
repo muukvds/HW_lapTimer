@@ -21,14 +21,12 @@ public class TimingEngine {
      * instance variablest
      */
 
-	private String status;
-	private int lapCount;
-	private long lastTime;
-	private long averageTime;
-	private long totalTime;
-	private String averageSpeed;
-	private int lapLength;
-	private long systemTime;
+    private boolean running;
+    private int lapCount;
+    private long totalTime;
+    private long lastTime;
+    private int lapLength;
+    private long lapStartTime;
 
     /**
      * Create a TimingEngine object. The object will be initialized at 0,
