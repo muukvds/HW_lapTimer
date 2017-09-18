@@ -18,9 +18,18 @@
 public class TimingEngine {
 	
 	/**
-     * instance variables
+     * instance variablest
      */
-    
+
+	private String status;
+	private int lapCount;
+	private long lastTime;
+	private long averageTime;
+	private long totalTime;
+	private String averageSpeed;
+	private int lapLength;
+	private long systemTime;
+
     /**
      * Create a TimingEngine object. The object will be initialized at 0,
      * status is "Stopped", ready to start timing. The default lap length
@@ -82,7 +91,7 @@ public class TimingEngine {
         return 0; //return the time of the last lap
     }
     
-    
+
     /**
      * Return the average time for a lap in this run.
      */
